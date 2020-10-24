@@ -1,8 +1,4 @@
-"""
-Name:Samad Patel
-C number: C0749505
 
-"""
 
 import json
 import requests
